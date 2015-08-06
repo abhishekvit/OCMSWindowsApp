@@ -1,0 +1,45 @@
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\bin\Debug\accentureapp.exe.config
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\bin\Debug\accentureapp.exe
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\bin\Debug\accentureapp.pdb
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.csprojResolveAssemblyReference.cache
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.Form1.resources
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.Properties.Resources.resources
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.csproj.GenerateResource.Cache
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.exe
+c:\users\abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.pdb
+C:\Users\Abi\documents\visual studio 2012\Projects\accentureapp\accentureapp\obj\Debug\accentureapp.Form2.resources
+D:\New folder\accentureapp\accentureapp\bin\Debug\accentureapp.exe.config
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.exe
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.pdb
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.csprojResolveAssemblyReference.cache
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.Form1.resources
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.Form2.resources
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.Properties.Resources.resources
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.csproj.GenerateResource.Cache
+D:\New folder\accentureapp\accentureapp\bin\Debug\accentureapp.exe
+D:\New folder\accentureapp\accentureapp\bin\Debug\accentureapp.pdb
+D:\New folder\accentureapp\accentureapp\bin\Debug\accentureapp.exe.manifest
+D:\New folder\accentureapp\accentureapp\bin\Debug\accentureapp.application
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.exe.manifest
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.application
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.Form3.resources
+D:\New folder\accentureapp\accentureapp\obj\Debug\accentureapp.Form4.resources
+C:\Users\HP\Desktop\accentureapp\accentureapp\bin\Debug\accentureapp.exe.config
+C:\Users\HP\Desktop\accentureapp\accentureapp\obj\Debug\accentureapp.exe
+C:\Users\HP\Desktop\accentureapp\accentureapp\obj\Debug\accentureapp.pdb
+D:\work\PROJECTS\accentureapp\accentureapp\bin\Debug\accentureapp.exe.config
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.exe
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.pdb
+D:\work\PROJECTS\accentureapp\accentureapp\bin\Debug\accentureapp.exe.manifest
+D:\work\PROJECTS\accentureapp\accentureapp\bin\Debug\accentureapp.application
+D:\work\PROJECTS\accentureapp\accentureapp\bin\Debug\accentureapp.exe
+D:\work\PROJECTS\accentureapp\accentureapp\bin\Debug\accentureapp.pdb
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.csprojResolveAssemblyReference.cache
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.Form1.resources
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.Form2.resources
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.Form3.resources
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.Form4.resources
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.Properties.Resources.resources
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.csproj.GenerateResource.Cache
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.exe.manifest
+D:\work\PROJECTS\accentureapp\accentureapp\obj\Debug\accentureapp.application
